@@ -7,7 +7,7 @@
 DISCORD_WEBHOOK_URL="https://discord.com/api/webhooks/1422602406704971878/X_yKaEo-eytcDJfNwMIP0eCooPjZYiZDApV20eMR7AKOrcX_uN2fcbEfSRsS23Ne0C2S"
 
 # 2. Alerta Email (Configuração REAL - Usado apenas se ativado)
-RECIPIENT_EMAIL="victorsoao777@gmail.com"
+RECIPIENT_EMAIL="EMAIL"
 
 # ===============================================
 
